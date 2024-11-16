@@ -31,3 +31,5 @@ This script requires certain files to be present on the computer. The following 
 - ImageMagick (only this file is required: magick.exe) — https://imagemagick.org/script/download.php
 - ExifTool (only this file is required: exiftool.exe) — https://oliverbetz.de/pages/Artikel/ExifTool-for-Windows
 - NirCmd (only this file is required: nircmdc.exe) — Only needed for the option to preserve the file date and time. For this, download "NirCmd" from https://www.nirsoft.net/utils/nircmd.html and put "nircmdc.exe" in "C:\Windows".
+
+Animated AVIF can be viewed in the Imagine freeware image & animation viewer for Windows — https://www.nyam.pe.kr/dev/imagine/
